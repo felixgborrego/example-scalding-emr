@@ -11,7 +11,7 @@ version := "0.0.1"
 
 scalaVersion := "2.10.4"
 
-jarName in assembly := "example-scalding-emr-task.jar"
+jarName in assembly := "example-scalding-emr.jar"
 
 mergeStrategy in assembly <<= (mergeStrategy in assembly) { (old) =>
 {
