@@ -1,16 +1,10 @@
-Work in progress...
 
 ## Description
 
 Example project to show how to execute Scalding task on Amazon Elastic Map Reduce using the emr-scalding-plugin. It makes use of the sbt plugin scalding-emr-plugin.
 
 
-![](https://raw2.github.com/felixgborrego/example-scalding-emr/master/docs/diagram.png)
+![](https://https://raw.githubusercontent.com/felixgborrego/example-scalding-emr/master/docs/diagram.png)
 
-## Usage
-
-TODO
-
-## Roadmap
-
-TODO
+## Experimental
+What is here is just an experiment over the weekend
